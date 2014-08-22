@@ -1,4 +1,4 @@
-name := "MB30_CRM"
+name := "mb30_crm"
 
 version := "1.0"
 
