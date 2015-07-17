@@ -7,5 +7,6 @@ tmp
 projectFilesBackup/
 project/
 mb30_crm/target/
+mb30_crm/project/
 .idea/
 .idea_modules
